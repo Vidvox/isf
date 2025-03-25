@@ -38,7 +38,7 @@ These existing libraries and frameworks can be used to add support for ISF to ap
 
 - Objective-C & Metal: [ISFMSLKit](https://github.com/mrRay/ISFMSLKit) (macOS)
 - Objective-C & OpenGL: [vvopensource](https://github.com/mrRay/vvopensource) (macOS / iOS)
-- C++ & OpenGL: [vvisf-gl](https://github.com/mrRay/vvisf-gl) (macOS / iOS)
+- C++ & OpenGL: [vvisf-gl](https://github.com/mrRay/vvisf-gl) (macOS / iOS/ Win / Linux)
 - Javascript & WebGL: [ISF-JS](https://github.com/msfeldstein/interactive-shader-format-js) (Web)
 
 Additional libraries can be found on the [ISF Developers](https://isf.video/developers/) page.
